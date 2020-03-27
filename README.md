@@ -36,7 +36,7 @@ Responsive flexbox grid system based on Bootstrap's grid system.
 https://www.npmjs.com/package/@mouradsamy/flexbox-grid
 
 ``` nodejs
-$ npm install @mouradsamy/flexbox-grid@latest
+$ npm install @mouradsamy/flexbox-grid
 ```
 
-Add this file node_modules/@mouradsamy/flex/box/dist/index.min.css to your assets folder or use its reference in your bundler (webpack, gulp, grunt, ...).
+Add this file node_modules/@mouradsamy/flexbox-grid/dist/index.min.css to your assets folder or use its reference in your bundler (webpack, gulp, grunt, ...).
