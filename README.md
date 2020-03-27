@@ -16,7 +16,7 @@ Responsive flexbox grid system based on Bootstrap's grid system.
       <div class="col-sm-4"></div>
       <div class="col-sm-4"></div>
     </div>
-    <div class="row-cols-3">
+    <div class="row row-cols-3">
       <div></div>
       <div></div>
       <div></div>

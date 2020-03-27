@@ -1,6 +1,6 @@
 {
   "name": "@mouradsamy/flexbox-grid",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Responsive flexbox grid system based on Bootstrap's grid system.",
   "main": "src/index.scss",
   "scripts": {
