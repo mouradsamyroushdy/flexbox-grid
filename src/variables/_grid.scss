@@ -1,0 +1,14 @@
+$grid-breakpoints: (xs: 0,
+    sm: 576px,
+    md: 768px,
+    lg: 992px,
+    xl: 1200px) !default;
+
+@include assert-ascending($grid-breakpoints, "$grid-breakpoints");
+@include assert-starts-at-zero($grid-breakpoints, "$grid-breakpoints");
+
+$grid-columns: 12 !default;
+$grid-gutter-width: 1.5rem !default;
+$gutter: $grid-gutter-width !default;
+$grid-row-columns: 6 !default;
+$gutters: $spacers !default;
