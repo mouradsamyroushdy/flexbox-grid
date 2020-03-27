@@ -1,6 +1,6 @@
 {
   "name": "@mouradsamy/flexbox-grid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive flexbox grid system based on Bootstrap's grid system.",
   "main": "src/index.scss",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mouradsamy/flexbox-grid-system.git"
+    "url": "git+https://github.com/mouradsamy/flexbox-grid.git"
   },
   "keywords": [
     "flexbox",
@@ -25,9 +25,9 @@
   "author": "mouradsamyroushdy@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mouradsamy/flexbox-grid-system/issues"
+    "url": "https://github.com/mouradsamy/flexbox-grid/issues"
   },
-  "homepage": "https://github.com/mouradsamy/flexbox-grid-system#readme",
+  "homepage": "https://github.com/mouradsamy/flexbox-grid#readme",
   "devDependencies": {
     "node-sass": "^4.13.1",
     "npm-run-all": "^4.1.5",
